@@ -10,6 +10,7 @@ Jupyter Lab
 Libraries are given below
 pandas
 pathlib
+numpy
 matplotlib
 
 
@@ -21,6 +22,7 @@ matplotlib
 Install below libraries
 pandas
 pathlib
+numpy
 matplotlib
 
 Julpyter Lab needs to be installed through Anaconda.
@@ -31,9 +33,11 @@ Julpyter Lab needs to be installed through Anaconda.
 
 ### Usage
 
+To complete the risk-return analysis by calculating daily returns, mean, standard deviation, beta, sharpe ratios etc.
 
+![Sharpe Ratio](Sharpe_Ratios.PNG)
 
-
+![Daily Returns Standard Deviation-21 Day Rolling Window](Daily_Returns_Standard_Deviation-21_Day_Rolling_Window.PNG)
 
 ## Contributors
 Kranthi Mitta
